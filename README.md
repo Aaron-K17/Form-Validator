@@ -1,4 +1,4 @@
-![Form Validator Screenshot](form-validator-screenshot.PNG)
+![Form Validator Screenshot](form-validator.PNG)
 
 
 # Javascript Form Validator
